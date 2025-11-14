@@ -1,5 +1,9 @@
-* x
+![CAT](./images/cat.jpg)
 
-![CAT](./images/cat.jpg){height=250 margin=auto}
+* x
+* y
+* z
+
+![CAT](./images/cat.jpg)
 
 Lorem ipsum ...
